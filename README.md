@@ -73,4 +73,5 @@
 | Zoom out of page | Ctrl + - |
 
 
-Note 1: For Left/Right scrolling with the Arrow keys, if the document is just one page, these keys only work if you are zoomed in on the page, *and* you have clicked on the page thumbnail in the side bar.
+## Notes
+**Note 1:** For Left/Right scrolling with the Arrow keys, if the document is just one page, these keys only work if you are zoomed in on the page, **and** you have clicked on the page thumbnail in the side bar.
