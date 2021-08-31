@@ -48,10 +48,10 @@
 | Scroll down or show last page | Down Arrow |
 | Scroll up or show previous page | Up Arrow |
 | Scroll up or show previous page | Ctrl + Up Arrow |
-| Scrolling view left | Ctrl + Left Arrow |
-| Scrolling view left | Left Arrow |
-| Scrolling view right | Right Arrow |
-| Scrolling view right | Ctrl + Right Arrow |
+| Scrolling view left, big move. (See Note 1)| Ctrl + Left Arrow |
+| Scrolling view left, small move. (See Note 1) | Left Arrow |
+| Scrolling view right, big move. (See Note 1) | Ctrl + Right Arrow |
+| Scrolling view right, small move. (See Note 1) | Right Arrow |
 | Search panel pop-up | Ctrl + F |
 | Show bookmark | Ctrl + Shift + 3 |
 | Show search list | Ctrl + Shift + 6 |
@@ -72,3 +72,5 @@
 | Zoom into page | Ctrl + + |
 | Zoom out of page | Ctrl + - |
 
+
+Note 1: For Left/Right scrolling with the Arrow keys, if the document is just one page, these keys only work if you are zoomed in on the page, *and* you have clicked on the page thumbnail in the side bar.
