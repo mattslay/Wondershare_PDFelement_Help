@@ -1,5 +1,7 @@
 # Wondershare PDFelement Shortcut list
 
+|Description|Key Combination|
+|--|--|
 | Add arrow comment | Alt + Shift + 4 |
 | Add bookmark | Ctrl + B |
 | Add bubble comment | Alt + Shift + 1 |
@@ -69,3 +71,4 @@
 | Undo last change | Ctrl + Z |
 | Zoom into page | Ctrl + + |
 | Zoom out of page | Ctrl + - |
+
